@@ -3,7 +3,7 @@ var books = [
     {title: "Thrilight", author:"Intense Loneliness", rating: 1.2},
     {title: "Hunger Games: Not So Hungry Any More", author: "Chef Louise", rating: 6.9},
     {title: "JavaScript and Me", author:"Antonia Parser", rating: 5.5},
-    {title: "The Sherriff Shot Me", author:"Jacob Marley", rating: 4.2},
+    {title: "And the Deputy Shot Me", author:"Jacob Marley", rating: 4.2},
     {title: "Go the @$&k to sleep", author:"A. Genius", rating: 7.2},
     {title: "iOS 4 Lyfe, LOL", author:"Nate Birkholz", rating: 9.5}
 ]
